@@ -1,0 +1,5 @@
+파일: private.sh
+변경 일시: Thu Nov 19 01:34:05 KST 2026
+변경 내용: 현재 사용자에게 읽기 및 실행 권한 부여
+설정 권한: 500
+-r-x------ 1 sjcjx sjcjx 29 Nov 19 01:33 private.sh
